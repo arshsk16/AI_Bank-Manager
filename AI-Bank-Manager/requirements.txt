@@ -1,0 +1,11 @@
+streamlit
+opencv-python
+numpy
+pillow
+pandas
+face-recognition
+pytesseract
+python-dotenv
+pydub
+scikit-learn
+qrcode
